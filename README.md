@@ -1,4 +1,29 @@
-### Hi there 👋
+I'm an enthusiastic mobile developer(8 years on Android / 3 years on Flutter) with a wide vision on Business Strategies and also Lean Startups.
+
+I have a vast knowledge of trends in the mobile industry, hands-on engineering best practices that have enriched my career and I know all these frameworks are tools to build an immersive product with user satisfaction.
+
+
+## Skills
+* Kotlin / Java / Flutter 
+* Android studio 
+* Dependency Injection (Hilt, Koin, Dagger) 
+* Android Jetpack (Room, Navigation, Pagging, Compose,...) 
+* Design pattern MVVM, MVP 
+* REST API and JSON via Retrofit
+* Coroutines
+* Third party libraries
+* Material Design
+
+## Soft Skills
+* Leadership and teamwork skills
+* Effective communication and helpfulness
+* Creative and open-minded
+* Time management
+* Problem-solving
+
+
+
+
 
 <!--
 **Morteza-Rastgoo/Morteza-Rastgoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
