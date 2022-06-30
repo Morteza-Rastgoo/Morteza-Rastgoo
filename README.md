@@ -4,7 +4,7 @@ I'm an enthusiastic mobile developer(10 years on Android / 4 years on Flutter) w
 I have a vast knowledge of trends in the mobile industry, hands-on engineering best practices that have enriched my career and I know all these frameworks are tools to build an immersive product with user satisfaction.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morteza-Rastgoo&theme=vue&show_icons=true)
-![Snake animation](https://github.com/Morteza-Rastgoo/Morteza-Rastgoo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Morteza-Rastgoo/Morteza-Rastgoo/main/profile-3d-contrib/profile-green-animate.svg)
 ## Skills
 * Kotlin / Java / Flutter 
 * Android studio 
