@@ -9,7 +9,7 @@ I have a vast knowledge of trends in the mobile industry, hands-on engineering b
 * Kotlin / Java / Flutter 
 * Android studio 
 * Dependency Injection (Hilt, Koin, Dagger) 
-* Android Jetpack (Room, Navigation, Pagging, Compose,...) 
+* Android Jetpack (Room, Navigation, Paging, Compose,...) 
 * Design pattern MVVM, MVP 
 * REST API and JSON via Retrofit
 * Coroutines
