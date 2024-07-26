@@ -4,7 +4,7 @@ Currently, I am focused on Android Automotive OS apps 🚗 🤩
 
 I have a vast knowledge of trends in the mobile industry, and hands-on engineering best practices that have enriched my career. I use these frameworks and tools to build an immersive product with user satisfaction.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morteza-Rastgoo&theme=vue&show_icons=true)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morteza-Rastgoo&theme=vue&show_icons=true)-->
 ![Snake animation](https://raw.githubusercontent.com/Morteza-Rastgoo/Morteza-Rastgoo/main/profile-3d-contrib/profile-green-animate.svg)
 ## Skills
 * Kotlin / Java / Flutter 
