@@ -33,7 +33,7 @@
 
 ### Volvo Cars — Senior Software Engineer (Apr 2022 - Present)
 **Stockholm County, Sweden**
-* **Lead In-Car Android Automotive Solution** - Leading the development of AAOS apps with focus on critical metrics for high-quality and secure applications
+* **Lead In-Car Android Automotive Solution** - AAOS apps development with focus on critical metrics for high-quality and secure applications
 * **Driving Journal App** - Developed autonomous user trip journaling feature, achieving 99.9% crash-free rates across global markets
 * **Enterprise Architecture** - Designed infrastructure and architecture for enterprise-grade in-car applications
 * **Product & Design Partnership** - Work closely with product management and design teams to build customer-focused solutions
