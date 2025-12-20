@@ -6,7 +6,7 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morteza-Rastgoo&theme=vue&show_icons=true)-->
 ![Snake animation](https://raw.githubusercontent.com/Morteza-Rastgoo/Morteza-Rastgoo/main/profile-3d-contrib/profile-green-animate.svg)
 ## Production Android Automotive Experience
-* **Driving Journal App** - Lead developer for Volvo's autonomous user trip journaling in-car app with 99.9% crash-free market releases
+* **Driving Journal App** - Software developer - Volvo's autonomous user trip journaling in-car app with 99.9% crash-free market releases
 * **Enterprise In-Car Architecture** - Designed infrastructure and architecture for high-quality, secure enterprise AAOS apps
 * **Product & Design Collaboration** - Work closely with product management and design teams to build solutions that answer customer needs
 * **IHU Service Architecture** - AOSP concepts, embedded constraints, app lifecycles, and service stability strategies
